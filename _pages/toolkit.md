@@ -1,7 +1,7 @@
 ---
 permalink: /toolkit/
 title: "Bioinformatics Toolkit"
-author_profile: true
+author_profile: Jade
 ---
 
 <!--
@@ -42,15 +42,9 @@ organized by what they are used for._
 
 ### BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
+**Use example:** I have used BLAST to determine how conserved the phoP gene is in Salmonella enterica_. I took notice of the query coverage and E-value. 
 
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
-
+**Strengths / limitations:** BLAST allows you to find other matching sequences very quickly.
 ---
 
 ### [Tool Name]
