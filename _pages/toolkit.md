@@ -42,9 +42,10 @@ organized by what they are used for._
 
 ### BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** I have used BLAST to determine how conserved the phoP gene is in Salmonella enterica_. I took notice of the query coverage and E-value. 
+**Use example:** I have used BLAST to determine how conserved the phoP gene is in _Salmonella enterica_. I took notice of the query coverage and E-value. 
 
-**Strengths / limitations:** BLAST allows you to find other matching sequences very quickly.
+**Strengths / limitations:** 
+BLAST allows you to find other matching sequences very quickly.
 ---
 
 ### [Tool Name]
