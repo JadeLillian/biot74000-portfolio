@@ -32,7 +32,7 @@ redirect_from:
 Hello — I'm **Jade Mulholland**, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-I have spent 3 years working in the food safety industry while completeing my degree. I have worked in food My program focusus on microbiology techniques and analytical chemistry instrumentation.
+I have spent 3 years working in the food safety industry while completeing my degree. I have worked in food maufactiring, research, quality control and quality assurance. My program focusus on microbiology techniques and analytical chemistry instrumentation and includes a capstone research project. 
 
 Bioinformatics is important to the food industry becasue it helps researchers represent results clearly. 
 
