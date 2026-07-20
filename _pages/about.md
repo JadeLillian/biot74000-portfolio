@@ -29,15 +29,12 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
+Hello — I'm **Jade Mulholland**, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
+I have spent 3 years working in the food safety industry while completeing my degree. I have worked in food My program focusus on microbiology techniques and analytical chemistry instrumentation.
 
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
+Bioinformatics is important to the food industry becasue it helps researchers represent results clearly. 
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
