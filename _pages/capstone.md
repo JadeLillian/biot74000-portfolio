@@ -38,7 +38,7 @@ The stacked bar chart showed that the soil sample from a farm which has been pra
 The bacterial family diversity chart showed which sample contained the most unique bacterial families and it made it easy to see that the soil sample from the Yukon contained bacteria from two families not found in any other samples. 
 
 The fact that these two bacterial families were unique to the Yukon sample led us to conduct further research. We discovered that bacteria from these families were known for being more active at colder temperatures. this bacteria would be a good candidate for a biofertilizer that could help plants that are not cold-tolerant grow in colder climates. 
-
+[Stacked bar chart showing bacterial family biodiversity by soil sample](/biot74000-portfolio/images/Capstone chart example.png)
 
 <!--
   OPTIONAL — to embed an image or figure you produced:
