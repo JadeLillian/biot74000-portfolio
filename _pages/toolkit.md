@@ -4,36 +4,6 @@ title: "Bioinformatics Toolkit"
 author_profile: Jade
 ---
 
-<!--
-  ============================================================================
-  SECTION 2: BIOINFORMATICS TOOLKIT  (30 points)
-  ============================================================================
-  A curated, annotated catalogue of the tools, databases, file formats, and
-  methods you worked with in this course. This is the POLISHED version of your
-  Course Learning Log — not a copy-paste, but a professional re-write,
-  organized by CATEGORY (not by unit).
-
-  FOR EACH ENTRY, INCLUDE:
-    - Tool / database name
-    - 1–2 sentences describing one specific use example from the course
-      that YOU performed
-    - One note on a strength or a limitation
-
-  SUGGESTED CATEGORIES (use the ones that fit your work; add or remove as needed):
-    Sequence Analysis Tools · Databases & Data Retrieval ·
-    Genome & Transcriptome Analysis · Protein Structure & Function ·
-    Computational & Scripting Tools · Data Visualization
-
-  Entries copied word-for-word from documentation will not receive full marks —
-  use your own words. Quality and honesty matter more than the number of entries.
-
-  HOW TO EDIT:
-    - Replace the example entries below with your own.
-    - Keep the same simple pattern: a "##" category heading, then one
-      "###" heading per tool, then your notes underneath.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
 
 _A curated catalogue of the tools, databases, and methods I have worked with,
 organized by what they are used for._
@@ -46,6 +16,7 @@ organized by what they are used for._
 
 **Strengths / limitations:** 
 BLAST allows you to find other matching sequences very quickly.
+
 ---
 
 ### UniProt
@@ -69,6 +40,7 @@ BLAST allows you to find other matching sequences very quickly.
 **Use example:** I have used BLASTN to compare the phoP gene sequence to other known gene sequences 
 
 **Strengths / limitations:** BLASTN shows just how close the uploaded sequence matches sections of reference genomes. This is very helpful when determining which species contain this gene. 
+
 ---
 
 ## Data Visualization
@@ -81,7 +53,4 @@ BLAST allows you to find other matching sequences very quickly.
 
 ---
 
-<!--
-  Add more categories and entries by copying the pattern above.
-  Aim for a toolkit that reads like notes a working professional would keep.
--->
+
