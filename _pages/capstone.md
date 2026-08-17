@@ -4,29 +4,6 @@ title: "Capstone Connection"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 4: CAPSTONE CONNECTION  (20 points)  |  Suggested length: 200–300 words
-  ============================================================================
-  A concise, professional summary of how you applied bioinformatics to your
-  capstone project. This draws from your Assignment 2 work — it is a
-  professional-context summary, NOT a repeat of the assignment.
-
-  INCLUDE:
-    - A 2–4 sentence description of your capstone project (assume a general
-      audience who is not in your program)
-    - The bioinformatics tool, dataset, or method you applied in Assignment 2,
-      and why it was relevant
-    - What you found or produced, described in plain language
-    - 1–2 sentences on how this bioinformatics component strengthened your capstone
-    - (Optional) embedded images or output figures — see the guide for how to
-      add an image
-
-  HOW TO EDIT:
-    - Replace the placeholder text below with your own.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
 
 ## My Capstone Project
 My group's capstone project focused on culturing as many different bacterial species as possible from 4 different soil samples and then identifying which ones would be a good candidate for attaching to a carrier as a biofertilizer. Biofertilizers are a collection of beneficial soil microbes mixed with a carrier such as charcoal or peat moss. Soil microbes help plants by producing plant growth hormones, converting nutrients into a form that is easier for plants to absorb and they help plants grow in spite of environmental stressors like cold and drought. Biofertilizers are usually safer to use than chemical fertilizers because they are non-polluting and biodegradable. 
