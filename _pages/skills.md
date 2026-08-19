@@ -13,7 +13,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 | Skill / Tool | Level of experience |
 |---|---|
 | NCBI Gene | I can confidently find the nucleotide sequence of a gene |
-| Uniprot | I can confidently find the amino acid sequence of a protein|
+| Uniprot | I can confidently find the amino acid sequence of a protein |
 | Uniprot - Feature Viewer | I can use this tool to determine the shape and function of a protein |
 | AlphaFold | I have used AlphaFold to learn which sections of a folded protein are likely represented correctly |
 
