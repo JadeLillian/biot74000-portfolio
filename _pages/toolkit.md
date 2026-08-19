@@ -40,6 +40,12 @@ organized by what they are used for._
 
 **Strengths / limitations:** BLASTN shows just how close the uploaded sequence matches sections of reference genomes. This is very helpful when determining which species contain this gene. 
 
+### NCBI Gene
+
+**Use example:** I used NCBI to determine the length of the human tp53 gene and the phoP gene in Salmonella enterica.
+
+**Strengths / limitations:** NCBI contains a lot of information and includes direct links to other databases, which makes further investigation of a gene or protein easy. One drawback is that NCBI has a new and legacy mode. Finding the same information in both of these modes can be tricky. 
+
 ---
 
 ## Data Visualization
