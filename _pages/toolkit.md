@@ -14,8 +14,7 @@ organized by what they are used for._
 
 **Use example:** I have used BLAST to determine how conserved the phoP gene is in _Salmonella enterica_. I took notice of the query coverage and E-value. 
 
-**Strengths / limitations:** 
-BLAST allows you to find other matching sequences very quickly.
+**Strengths / limitations:** BLAST allows you to find other matching sequences very quickly.
 
 ---
 
@@ -47,10 +46,48 @@ BLAST allows you to find other matching sequences very quickly.
 
 ### R + RStudio
 
-**Use example:** I used RStudio to make bar charts from data collected from our capstone research project.
+**Use example:** I used RStudio to make bar charts from data collected from our capstone research project. So far I have made made stacked bar charts and regular bar charts. I have added code to change the colour scheme of the charts, change the order that samples appear and add an outline to all of the bars for easier viewing. 
 
-**Strengths / limitations:** RStudio is extremely useful in making charts from massive amounts of data, but it takes a bit of time to learn the R coding language.
+**Strengths / limitations:** RStudio is extremely useful in making charts from massive amounts of data, but it takes a bit of time to learn the R coding language. It is very easy to find chunks of code online for various chart modifications.
 
 ---
 
+## Genome & Transcriptome Analysis
 
+### Clustal Omega
+
+**Use example:** I used Clustal Omega to determine the similarity of four different gene sequences by analysing multiple sequence alignments. 
+
+**Strengths / limitations:** Clustal Omega creates a phylogram showing how closely related the organisms to which the genome sequences belong are. 
+
+### UCSC
+
+**Use example:** I used the detailed gene annotations given by UCSC to further understand the TP53 gene in humans. 
+
+**Strengths / limitations:** The UCSC genome browser contains a lot of different dropdown menus and buttons. This makes navigating the database tricky. 
+
+### Ensemble Bacteria
+
+**Use example:** I used this genome annotation tool to find more information on the phoP gene in Salmonella enterica.
+
+**Strengths / limitations:** The Ensembl Bacteria tool is complicated to navigate, and it takes a long time to load different sections. 
+ 
+### g: Profiler
+
+**Use example:** I used g: Profiler to determine the functions of the genes of a tomato plant that is not infected with a psyllid and one that is infected. I also used this tool to determine which genes were upregulated or downregulated as a response to the psyllid. 
+
+**Strengths / limitations:** This database gives a lot of information on gene function, and the confidence of each gene to function match.  
+
+## Protein Structure & Function
+
+### UniProt - Feature viewer
+
+**Use example:** I used the feature viewer in Uniprot to look at the different protein domains of NPR3.
+
+**Strengths / limitations:** I really like seeing the shape of a protein. It reminds me that proteins are complex, really small structures, and not just magic.
+
+### AlphaFold
+
+**Use example:** I used AlphaFold to look at the shape of the NPR3 protein. I also used it to determine how sure researchers are of each domain’s shape.
+
+**Strengths / limitations:** AlphaFold makes it very clear which sections of the protein are likely folded correctly by using a colour-coded system
