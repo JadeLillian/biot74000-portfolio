@@ -28,3 +28,4 @@ _Skills I have used in a guided setting and would need support to apply independ
 | USCS | I have a little bit of experience using USCS to find annotated gene sequences |
 | Ensemble Bacteria | I have only used this database once |
 | g:profiler | I have used this tool to determine the functions of genes in a genome a few times |
+| R + RStudio | I have a beginner level of experience using RStudio to analyse large data sets and create charts and graphs |
