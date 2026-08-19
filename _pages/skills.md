@@ -9,6 +9,7 @@ _An honest summary of my current bioinformatics competencies._
 ## Intermediate / Advanced
 
 _Skills I can perform independently, explain to others, and apply in a new situation._
+
 | Skill / Tool | Level of experience |
 |---|---|
 | NCBI Gene | I can confidently find the nucleotide sequence of a gene |
